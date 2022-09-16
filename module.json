@@ -10,6 +10,9 @@
   ],
   "url": "http://www.battlezoo.com",
   "version": "1.0.1",
+  "url": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/main/module.json",
+  "download": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
