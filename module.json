@@ -1,15 +1,15 @@
 {
   "name": "battlezoo-ancestries-dungeons-dnd5e",
   "title": "Battlezoo Ancestries: Dungeons for Dungeons and Dragons 5e by Roll for Combat",
-  "description": "Now, you are the dungeon!",
+  "description": "Now, you are the dungeon! With Battlezoo Ancestries Dungeons, the power of dungeons is in your hands. With the dungeon race, play as a dungeon who awakened to sentience and then sapience, with a life force, a spirit, and even an avatar that you can use to interact with the world!",
   "authors": [
     {
-      "name": "Roll for Combat",
+      "name": "Mark Seifter",
       "flags": {}
     }
   ],
   "url": "http://www.battlezoo.com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10",
   "manifest": "https://raw.githubusercontent.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/main/module.json",
   "download": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/archive/refs/heads/main.zip",
