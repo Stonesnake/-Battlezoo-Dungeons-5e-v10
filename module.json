@@ -9,14 +9,13 @@
     }
   ],
   "url": "http://www.battlezoo.com",
-  "version": "1.0.2",
+  "version": "1.1",
   "url": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10",
   "manifest": "https://raw.githubusercontent.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/main/module.json",
   "download": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "11"
   },
   "packs": [
     {
@@ -24,20 +23,44 @@
       "type": "Item",
       "name": "dnd5e-battlezoo-dungeon-feats",
       "path": "packs/dnd5e-battlezoo-dungeon-feats.db",
+      "banner": "modules/battlezoo-ancestries-dungeons-dnd5e/banners/banner.webp",
       "system": "dnd5e",
       "package": "battlezoo-ancestries-dungeon-dnd5e",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Battlezoo Ancestries: Dungeons - Racial Features",
       "type": "Item",
       "name": "dnd5e-battlezoo-dungeon-ancestry",
       "path": "packs/dnd5e-battlezoo-dungeon-ancestry.db",
+      "banner": "modules/battlezoo-ancestries-dungeons-dnd5e/banners/banner.webp",
       "system": "dnd5e",
       "package": "battlezoo-ancestries-dungeon-dnd5e",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
+  "packFolders": [
+    {
+      "name": "Battlezoo Ancestries: Dungeons",
+      "sorting": "m",
+      "packs": [
+        "dnd5e-battlezoo-dungeon-feats",
+        "dnd5e-battlezoo-dungeon-ancestry"
+      ]
+    }
+  ],
+  "media": [
+    {
+        "type": "setup",
+        "caption": "Battlezoo Ancestries: Dungeons",
+        "thumbnail": "modules/battlezoo-ancestries-dungeons-dnd5e/banners/preview.webp"
+  }],
   "relationships": {
     "systems": [
       {
