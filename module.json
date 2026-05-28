@@ -14,7 +14,7 @@
   "manifest": "https://raw.githubusercontent.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/main/module.json",
   "download": "https://github.com/Stonesnake/-Battlezoo-Dungeons-5e-v10/archive/refs/heads/main.zip",
   "compatibility": {
-    "minimum": "10",
+    "minimum": "12",
     "verified": "14"
   },
   "packs": [
